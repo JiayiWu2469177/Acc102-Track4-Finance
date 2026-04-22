@@ -1,6 +1,16 @@
-Company,Year,ROE,NetProfitMargin
-SPD Bank,2023,0.112,0.352
-CMB,2023,0.168,0.391
-Ping An Insurance,2023,0.089,0.128
-Zijin Mining,2023,0.125,0.156
-Ping An Bank,2023,0.097,0.324
+Year,Company,ROE,NetProfitMargin
+2021,SPD Bank,0.105,0.345
+2021,CMB,0.152,0.382
+2021,Ping An Insurance,0.081,0.119
+2021,Zijin Mining,0.118,0.149
+2021,Ping An Bank,0.091,0.318
+2022,SPD Bank,0.108,0.348
+2022,CMB,0.161,0.387
+2022,Ping An Insurance,0.085,0.123
+2022,Zijin Mining,0.121,0.152
+2022,Ping An Bank,0.094,0.321
+2023,SPD Bank,0.112,0.352
+2023,CMB,0.168,0.391
+2023,Ping An Insurance,0.089,0.128
+2023,Zijin Mining,0.125,0.156
+2023,Ping An Bank,0.097,0.324
